@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gustavo Almeida Reis
+- Matricula: 1577200
+- Proposta de projeto escolhida: Site de Catálogo de Filmes
+- Breve descrição sobre seu projeto: Um site onde demonstra as novidades do cinema e os mais diversos filmes
 
 
 ## Print do esboço criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![alt text](image.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
